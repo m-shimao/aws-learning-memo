@@ -33,7 +33,7 @@
 - Connection Draining
     - 登録解除やヘルスチェックがFailしたEC2への割り振りを中止するが、処理中リクエストは終わるように一定時間待つ機能
 - WebSocketとLB
-    - セッション確立時だけLBを使う䛾が上手な付き合い方
+    - セッション確立時だけLBを使うのが上手な付き合い方
 
 ### Application Load Balancer (ALB)
 - レイヤー７のコンテントベースのロードバランサー
