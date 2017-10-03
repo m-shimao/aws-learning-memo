@@ -20,3 +20,15 @@
 ## Auto Scaling
 - 構成要素（ASG, Launch Configuration, Scaling Plan）で理解が整理することが出来た
 - Application Auto Scalingを初めて知った
+
+## Amazon EC2 Container Service
+- ECSについてもそうだが、Containerに対する理解が深まった
+- 事例集をみて、本番利用している企業が意外と多いことに驚いた
+
+## AWS Elastic Beanstalk
+- 環境構築、デプロイの手間削減というメリットを理解できた
+- Dockerも使えるのでうまく使えば、多くのアプリケーションがこれで運用できそう
+
+## AWS Lambda
+- 改めて強力だなと感じた
+- API的に使う＝モバイルアプリ、PWAとかだったらもうサーバ要らないのでは？
